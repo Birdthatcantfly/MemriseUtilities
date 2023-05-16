@@ -4,7 +4,7 @@
 // @version       1.1.1
 // @grant         none
 // @description   Various helper functions for Memrise and some other EO sites.
-// @icon          http://cdn.altrn.tv/icons/memrise_10088.png?width=50&height=50&mode=crop&anchor=middlecenter
+// @icon          https://app.memrise.com/favicons/android-chrome-512x512.png
 // @homepageURL   https://github.com/scytalezero/MemriseUtilities
 // @updateURL     https://github.com/scytalezero/MemriseUtilities/raw/master/MemriseUtilities.user.js
 // @downloadURL   https://github.com/scytalezero/MemriseUtilities/raw/master/MemriseUtilities.user.js
